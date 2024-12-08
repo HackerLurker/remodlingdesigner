@@ -9,15 +9,23 @@ body::-webkit-scrollbar{
 
 .HeaderHowsection{
     font-size: 50px;
+    width: 1162px; 
+    height: 90px; 
+    left: 0px; 
+    top: 0px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-family: Rowdies; 
+    font-weight: 400; 
+    word-wrap: break-word;
 }
 
 .HowsectionText{
     font-size: 20px;
     width: 610px;
+    height: 110px;  position: absolute; text-align: center; color: #888888;  font-family: Rowdies; font-weight: 400; word-wrap: break-word
 }
-
-
-
 
 
 
